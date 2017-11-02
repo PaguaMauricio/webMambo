@@ -1,0 +1,50 @@
+/* General */
+
+/*header*/
+/* Show it is fixed to the top */
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+
+}
+/*
+#cabecera{
+    background-image: url("img/cabecera.png"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    //box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+#cabeceraContainer{
+
+position: static;
+
+width: content-box;
+
+height: content-box;
+
+overflow: hidden;
+padding-top: 6rem;
+padding-bottom: 7rem;
+}
+*/
+
+
+
+
+.navbar{
+    background-image: url("img/menubar");
+    background-attachment: fixed;
+    opacity: 1;
+}
+.navbar-collapse{
+    background-color: #2D2D2D;
+}
+/*Content*/
+#contenedorP{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: transparent;
+    
+}
+/*Footer*/
