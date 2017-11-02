@@ -5,7 +5,27 @@
 body {
   min-height: 75rem;
   padding-top: 4.5rem;
-
+  
+}
+.navbar {
+    background-image: url(img/PORTADA_CELULAR_4.png);
+    color: transparent;
+    
+}
+.jumbotron {
+    margin-top: -20px;
+    margin-bottom: 0px;
+    background-image: url(img/PORTADA_CELULAR_4.png);
+    background-position: 50% 10%;
+    background-attachment: fixed;
+    background-size: fixed;
+    background-repeat: no-repeat;
+    background-color: rgb(25, 25, 25);
+    color: white;    
+    height: 280px;
+    width: 100%;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    box-shadow: inset black 0em 0em 3em -0.3em;
 }
 /*
 #cabecera{
